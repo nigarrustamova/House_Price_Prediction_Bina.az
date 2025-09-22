@@ -2,8 +2,8 @@
 
 Machine learning project for predicting new house prices across 8 districts in Baku, Azerbaijan using data scraped from bina.az with an interactive Streamlit web application.
 
-**Author:** Nigar Rustamova  
-**Email:** rustamovanigar11@gmail.com
+**Author:** Nigar Rustamova                                                                                                                                                                                               
+**Email:** rustamovanigar11@gmail.com                                                                                                                                                                                         
 **Data Source:** bina.az
 
 ## Project Overview
@@ -82,3 +82,6 @@ The Streamlit application provides:
 - OpenStreetMap integration provides interactive geospatial context
 - GeoJSON polygon boundaries enable precise district visualization
 - Streamlit framework delivers responsive user interface
+
+## Streamlit App Video
+[![House Price Prediction Streamlit App Demo](https://img.youtube.com/vi/0X-EyD6Y6fg/maxresdefault.jpg)](https://www.youtube.com/watch?v=0X-EyD6Y6fg)
